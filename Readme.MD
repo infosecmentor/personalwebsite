@@ -21,7 +21,7 @@ As a user of the application,you will be able to :
 1. Can make inquiry through a form.
 [Go Back to the top]
 
-## Behaviour Driven Development|
+## Behaviour Driven Development
 | Behaviour      | Input        | Output       |
 | :------------- | :----------: | -----------: |
 |  Enter your name  |   Phares Muhambi|     |
